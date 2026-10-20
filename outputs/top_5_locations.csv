@@ -1,0 +1,6 @@
+rank,location_name,business_type,monthly_rent,population,competitor_count,daily_footfall,accessibility_score,parking_score,public_transport_score,income_level,target_demand,demand_score,accessibility_component,footfall_component,transport_component,competition_component,rent_affordability,suitability_score
+1,Bairagarh,Cafe,57241,38996,1,4761,10,4,9,High,3573.8,100.0,100,95.2088452088452,65,95.0,0.0,83.53
+2,MP Nagar,Cafe,12643,26625,9,3833,10,10,9,Medium,2832.8,78.38194235768113,100,76.2080262080262,95,55.0,74.714,82.17
+3,New Market,Cafe,79569,49409,2,4658,9,8,7,High,3551.81,99.35846007077652,90,93.0999180999181,75,90.0,0.0,82.02
+4,Bairagarh,Cafe,13631,43454,7,3729,10,5,10,High,3051.38,84.7588317496623,100,74.07862407862407,75,65.0,72.738,81.56
+5,Arera Colony,Cafe,17967,13016,0,4754,10,5,6,Low,2703.31,74.60417949114418,100,95.06552006552008,55,100.0,64.066,81.3

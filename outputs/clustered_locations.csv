@@ -1,0 +1,1001 @@
+location_name,business_type,monthly_rent,population,competitor_count,daily_footfall,accessibility_score,parking_score,public_transport_score,income_level,target_demand,cluster
+Bairagarh,Cafe,78577,19140,10,636,3,3,10,High,1053.32,1
+Kolar Road,Grocery,75641,36655,9,1373,9,9,6,Medium,2214.65,2
+Ayodhya Bypass,Clothing,19078,48472,16,3067,4,6,7,Medium,2545.24,2
+Hoshangabad Road,Clothing,35003,11816,3,3149,5,7,10,Low,2033.24,2
+Bairagarh,Grocery,72768,16639,15,1196,7,4,8,Medium,1357.57,1
+Gulmohar Colony,Clothing,61047,34492,19,1405,5,4,10,High,1598.39,2
+Arera Colony,Clothing,67660,16240,14,1015,4,2,1,Medium,696.37,1
+Bairagarh,Clothing,59786,37698,20,3181,2,5,8,Medium,2220.5,2
+Ayodhya Bypass,Clothing,11925,31957,4,4347,2,8,4,Medium,2626.11,0
+Hoshangabad Road,Clothing,36015,37808,5,1128,4,7,10,Medium,1818.79,2
+Kolar Road,Cafe,43320,10827,16,2077,10,7,8,Medium,1585.51,2
+Ayodhya Bypass,Clothing,74881,37762,0,3454,10,6,6,Low,2804.54,2
+Ayodhya Bypass,Cafe,36289,13259,18,2611,9,3,9,High,1652.93,1
+Arera Colony,Clothing,13389,19849,3,370,8,5,4,Low,1019.67,0
+Bawadiya Kalan,Grocery,35683,21232,16,1286,3,1,2,High,868.67,1
+Hoshangabad Road,Pharmacy,23629,45572,8,4655,9,7,2,High,3088.25,2
+New Market,Cafe,71550,29173,1,4300,5,9,5,High,2571.72,2
+Ayodhya Bypass,Clothing,34826,10374,7,3864,3,1,10,High,2069.35,1
+Bawadiya Kalan,Grocery,36630,26174,14,2498,5,2,9,High,1864.14,1
+New Market,Pharmacy,56163,28567,6,4629,10,3,3,Medium,2889.89,1
+Hoshangabad Road,Cafe,76435,40292,5,4335,4,3,8,Low,2928.07,2
+MP Nagar,Pharmacy,21653,14277,0,4282,8,8,4,Low,2425.53,0
+Gulmohar Colony,Grocery,37961,36600,14,1811,5,7,6,Medium,1735.37,0
+Bawadiya Kalan,Cafe,43662,14885,6,2330,10,6,10,High,2033.54,2
+Shahpura,Pharmacy,66446,5778,16,228,8,10,6,Low,503.53,0
+MP Nagar,Clothing,31288,34165,1,1369,9,10,3,Medium,1818.49,0
+Gulmohar Colony,Cafe,46877,6492,8,3772,4,4,5,Medium,1750.41,1
+Arera Colony,Pharmacy,25313,35462,8,1701,7,9,3,Low,1917.91,0
+Bairagarh,Grocery,20326,18615,12,4865,2,1,1,Low,2316.06,1
+Kolar Road,Grocery,11560,49900,5,4070,6,2,7,High,3208.8,2
+Shahpura,Cafe,36745,47946,5,4344,8,4,4,High,3330.64,2
+Arera Colony,Pharmacy,41890,12851,19,727,7,3,7,Low,862.81,1
+Hoshangabad Road,Cafe,30022,21288,19,3897,7,1,3,High,2265.19,1
+Arera Colony,Cafe,62579,12156,20,2144,8,5,5,Medium,1506.17,1
+Bairagarh,Pharmacy,38380,7044,2,3652,7,7,5,High,1694.67,1
+Hoshangabad Road,Pharmacy,12356,12368,16,2441,5,2,2,High,1291.5,1
+Shahpura,Clothing,30049,24900,16,3314,7,5,10,Medium,2332.6,2
+Bairagarh,Pharmacy,26082,35600,11,349,10,6,2,High,1410.61,0
+New Market,Grocery,10661,30634,15,3025,3,7,4,Medium,1836.02,0
+Kolar Road,Cafe,47412,14168,14,1074,5,1,4,High,1171.52,1
+Shahpura,Cafe,12920,25961,12,1425,7,7,4,Low,1508.88,0
+New Market,Grocery,70315,49096,0,1083,9,4,6,High,2250.29,2
+Gulmohar Colony,Pharmacy,18946,28852,16,988,2,8,2,Low,936.2,0
+Shahpura,Grocery,55500,38110,2,3037,4,4,6,Low,2314.46,2
+Gulmohar Colony,Grocery,26309,37174,14,2217,7,6,7,Low,2035.52,2
+Hoshangabad Road,Clothing,65230,39215,3,2772,1,9,10,Low,2378.47,2
+New Market,Grocery,40027,31955,3,1426,2,5,3,Low,1508.44,0
+Kolar Road,Cafe,69321,11581,17,570,9,4,8,Medium,951.97,1
+Bairagarh,Grocery,10956,49619,16,2087,10,8,2,Medium,2426.98,0
+Ayodhya Bypass,Cafe,57908,11317,18,190,7,9,8,Medium,734.07,0
+Arera Colony,Cafe,35963,47856,10,629,10,4,5,Low,1990.0,2
+MP Nagar,Cafe,49443,31649,19,4856,7,3,2,High,2733.8,1
+Kolar Road,Pharmacy,49063,28132,2,4159,6,8,7,Medium,2690.98,2
+New Market,Clothing,14703,21789,7,4934,3,5,2,High,2441.59,1
+Ayodhya Bypass,Cafe,75128,19567,13,2873,10,2,6,High,2086.83,1
+Kolar Road,Cafe,35849,19868,0,1786,3,10,10,Low,1697.38,2
+New Market,Pharmacy,41860,29370,13,291,2,9,3,Low,960.16,0
+Bawadiya Kalan,Cafe,41585,47533,1,2086,6,3,9,Low,2444.73,2
+Bawadiya Kalan,Grocery,32015,35483,3,3723,4,2,3,Medium,2440.33,1
+Gulmohar Colony,Grocery,53585,17466,18,2285,5,1,3,Low,1519.42,1
+Kolar Road,Clothing,36958,33803,5,4540,3,8,5,Medium,2695.32,2
+Bawadiya Kalan,Cafe,36017,23230,0,1108,6,3,7,Medium,1441.15,2
+New Market,Pharmacy,55350,22862,16,3883,3,7,8,Medium,2097.49,2
+Gulmohar Colony,Grocery,22201,48355,7,4398,8,1,7,Medium,3315.48,2
+New Market,Pharmacy,39426,36259,18,4768,9,1,9,Low,3029.79,1
+Gulmohar Colony,Pharmacy,27778,38539,20,4387,4,9,5,Medium,2777.4,0
+Kolar Road,Grocery,55241,26909,0,2152,9,8,10,Low,2072.14,2
+Ayodhya Bypass,Pharmacy,52229,35795,4,3408,7,3,3,Low,2635.48,1
+Bairagarh,Grocery,58364,13770,15,1816,3,6,6,Medium,1131.33,1
+Shahpura,Pharmacy,67056,16093,5,410,7,3,5,Low,888.15,1
+Ayodhya Bypass,Grocery,37490,5193,7,4638,1,4,4,High,1872.04,1
+Hoshangabad Road,Cafe,29975,39775,12,1360,3,1,2,Low,1465.07,1
+New Market,Clothing,36723,22569,15,4032,6,5,7,Low,2338.86,1
+Hoshangabad Road,Grocery,33279,16190,2,3368,4,1,5,Medium,1855.8,1
+Ayodhya Bypass,Grocery,21561,47752,18,684,7,1,4,Medium,1817.71,1
+Gulmohar Colony,Clothing,76061,37327,11,2899,3,10,8,Low,2241.5,2
+Shahpura,Grocery,59153,47070,15,459,1,7,9,Medium,1388.55,2
+Shahpura,Grocery,43142,25389,10,2966,9,6,9,High,2233.12,2
+MP Nagar,Pharmacy,36916,45197,9,2111,6,2,3,High,2239.27,1
+Shahpura,Clothing,74324,7261,19,4106,8,2,3,Medium,2047.33,1
+Bairagarh,Cafe,54965,33369,3,1725,3,7,5,Low,1703.45,2
+Shahpura,Grocery,14648,31512,11,2864,8,1,5,High,2125.76,1
+Ayodhya Bypass,Clothing,45133,11716,1,990,2,2,10,High,1134.8,1
+MP Nagar,Pharmacy,60677,26259,18,831,4,8,2,Low,1097.38,0
+Ayodhya Bypass,Cafe,45046,33933,4,4061,3,6,1,Medium,2540.33,0
+Ayodhya Bypass,Clothing,57064,46689,7,4801,10,2,8,High,3546.6,2
+Arera Colony,Cafe,79350,9378,6,2604,1,7,3,Low,1173.79,0
+MP Nagar,Cafe,55893,45583,13,714,7,4,1,Low,1691.16,0
+Ayodhya Bypass,Cafe,71272,24835,2,3906,10,2,1,High,2530.61,1
+Arera Colony,Grocery,77649,34033,17,1819,2,6,2,Medium,1419.99,0
+Arera Colony,Grocery,74674,29000,15,4869,4,9,6,High,2679.01,2
+MP Nagar,Pharmacy,23760,15332,18,1687,9,9,6,Low,1404.25,0
+Hoshangabad Road,Pharmacy,31927,47604,18,1711,6,8,3,High,2073.3,0
+Gulmohar Colony,Clothing,71367,7800,17,996,8,3,4,Medium,942.8,1
+Bairagarh,Pharmacy,22588,34538,19,377,2,3,2,Low,860.24,0
+Gulmohar Colony,Cafe,62233,35119,15,4747,7,2,2,Medium,2684.18,1
+Shahpura,Cafe,54738,13333,7,1736,6,5,7,High,1371.94,1
+Bairagarh,Grocery,43397,10410,0,2258,9,4,1,High,1533.83,1
+Shahpura,Cafe,29816,22839,16,2532,7,7,7,Medium,1933.27,0
+Ayodhya Bypass,Clothing,52240,35519,11,4004,1,4,1,High,2310.71,1
+New Market,Cafe,16276,10808,20,4956,8,9,6,Medium,2530.67,0
+MP Nagar,Cafe,33499,11796,10,3362,10,2,3,High,1914.88,1
+Bairagarh,Clothing,45946,26180,4,1549,3,6,8,Medium,1494.22,2
+Bairagarh,Pharmacy,65204,48056,11,4600,2,7,6,Medium,2885.42,2
+Ayodhya Bypass,Pharmacy,61886,22709,16,1332,3,4,2,Low,1158.87,1
+Hoshangabad Road,Clothing,25563,22543,5,4217,6,6,8,Low,2531.7,2
+Arera Colony,Grocery,19847,42418,0,777,3,7,5,Medium,1447.04,0
+Ayodhya Bypass,Cafe,36155,34075,4,2758,10,4,8,High,2537.39,2
+Bawadiya Kalan,Clothing,77278,42755,13,2128,5,8,8,High,2200.27,2
+Arera Colony,Cafe,28309,42465,4,3858,6,9,6,High,2837.49,2
+MP Nagar,Grocery,10619,35502,0,4724,8,1,2,Medium,3030.62,1
+Arera Colony,Cafe,60108,21724,17,2137,7,7,8,Medium,1589.03,2
+Hoshangabad Road,Clothing,44707,8828,15,2749,8,9,6,Medium,1776.95,0
+Arera Colony,Cafe,30337,22087,8,756,3,10,6,Medium,1104.8,0
+MP Nagar,Pharmacy,76504,17605,18,265,4,5,8,Low,615.51,1
+Hoshangabad Road,Grocery,57614,36337,4,4691,6,2,1,Medium,2839.69,1
+Gulmohar Colony,Grocery,10281,10482,1,689,7,10,2,High,943.87,0
+Bairagarh,Grocery,37420,32005,14,4624,9,6,9,Low,2887.23,2
+Bairagarh,Clothing,49030,27760,6,2921,1,7,8,High,1999.71,2
+Shahpura,Grocery,11058,10463,3,4358,8,2,7,Medium,2534.97,1
+Gulmohar Colony,Pharmacy,38404,9912,0,1362,8,2,7,Low,1270.06,1
+Gulmohar Colony,Clothing,39856,9648,12,171,6,10,5,Medium,673.89,0
+Arera Colony,Pharmacy,19200,38623,19,3616,4,10,2,Low,2322.03,0
+Bairagarh,Cafe,74178,40634,6,4850,3,1,6,High,3080.18,1
+MP Nagar,Cafe,43997,49602,14,3680,3,4,10,Medium,2827.17,2
+Kolar Road,Cafe,35611,8112,13,368,6,7,3,Medium,484.93,0
+Kolar Road,Cafe,51235,27054,18,1876,8,9,4,Low,1763.37,0
+Hoshangabad Road,Pharmacy,45057,9492,19,2562,7,3,10,Low,1493.27,1
+Bairagarh,Clothing,11239,27207,17,1368,1,7,2,Medium,1279.86,0
+Bairagarh,Clothing,75661,20114,9,1115,6,7,2,Low,1219.18,0
+Kolar Road,Grocery,55272,39285,8,2822,7,7,8,Medium,2419.94,2
+Bairagarh,Pharmacy,71212,21018,7,1183,7,2,8,Low,1570.37,1
+Arera Colony,Cafe,25398,26386,9,4201,9,6,10,High,2789.08,2
+Bawadiya Kalan,Pharmacy,66503,22740,16,506,10,2,6,Low,1243.46,1
+New Market,Grocery,16638,49199,1,3176,5,6,5,High,2663.49,2
+Gulmohar Colony,Grocery,16570,13210,5,1085,1,10,8,Low,762.18,0
+Shahpura,Pharmacy,78785,49363,4,3703,2,3,4,Low,2770.56,2
+Hoshangabad Road,Pharmacy,19110,17743,8,4585,4,2,4,Medium,2125.51,1
+Bawadiya Kalan,Pharmacy,22115,47092,4,809,5,6,5,Low,1741.12,0
+Kolar Road,Clothing,49062,49299,17,2718,9,2,1,Low,2537.06,1
+Gulmohar Colony,Cafe,32911,11588,19,4949,1,5,1,High,1861.78,1
+Bairagarh,Pharmacy,42556,8311,8,1511,3,2,2,Low,882.34,1
+Shahpura,Pharmacy,11969,27432,16,4721,5,3,8,Medium,2546.78,1
+Bairagarh,Pharmacy,53753,38755,16,1585,3,3,7,High,1688.78,1
+MP Nagar,Grocery,14470,8321,11,3050,4,6,10,Medium,1681.86,2
+MP Nagar,Grocery,20225,20812,6,4751,3,6,9,Medium,2448.0,2
+Shahpura,Clothing,33196,42383,2,3034,4,10,5,Medium,2620.11,2
+Shahpura,Cafe,23669,18146,9,4214,1,3,2,Medium,1884.81,1
+Kolar Road,Clothing,47380,18654,1,4770,8,3,7,High,2873.69,1
+Shahpura,Cafe,58320,40820,2,1103,4,1,8,Low,1809.77,2
+Arera Colony,Grocery,57414,5726,15,2566,7,7,7,Medium,1294.4,1
+Bairagarh,Grocery,25577,8760,1,2566,2,8,7,High,1303.41,0
+Bawadiya Kalan,Grocery,65409,27190,9,2038,2,2,5,Medium,1570.66,1
+Ayodhya Bypass,Clothing,38625,6875,5,2039,6,4,2,Low,1298.8,1
+Shahpura,Pharmacy,34089,28377,10,1735,2,10,6,High,1673.65,0
+Hoshangabad Road,Pharmacy,46487,9033,6,1798,6,7,4,High,1227.95,0
+MP Nagar,Grocery,75838,43211,14,4627,2,8,10,Low,2842.0,2
+Arera Colony,Pharmacy,60138,22373,5,2191,4,1,2,High,1564.02,1
+Gulmohar Colony,Pharmacy,52823,8744,19,1995,7,4,9,Low,1264.33,1
+Ayodhya Bypass,Clothing,47208,29995,8,4340,8,6,7,High,2838.09,2
+Bawadiya Kalan,Cafe,64061,21977,19,3498,3,3,6,High,1819.58,1
+Ayodhya Bypass,Grocery,40659,37402,11,1173,9,5,5,Low,1626.64,0
+Shahpura,Grocery,41890,39542,18,2502,2,10,3,Low,2005.94,0
+Kolar Road,Clothing,57055,15651,19,4995,8,9,10,High,2626.88,2
+MP Nagar,Clothing,29508,38703,2,3312,8,3,10,High,2811.74,2
+MP Nagar,Pharmacy,52287,18395,14,4137,4,5,4,Low,2187.5,1
+Gulmohar Colony,Grocery,36984,34808,1,1251,1,8,3,Low,1625.93,0
+Kolar Road,Cafe,18125,41576,20,2545,1,6,8,High,2092.16,0
+Bairagarh,Clothing,46059,21715,1,2056,2,4,3,High,1452.78,1
+New Market,Cafe,79569,49409,2,4658,9,8,7,High,3551.81,2
+Arera Colony,Cafe,27087,29306,5,4007,2,3,7,Low,2365.62,1
+MP Nagar,Grocery,15704,24086,14,907,2,3,7,High,1093.21,1
+Hoshangabad Road,Grocery,70576,19376,9,286,6,4,7,Medium,1018.99,1
+MP Nagar,Clothing,37208,10889,8,4927,7,9,2,Low,2248.01,0
+Ayodhya Bypass,Grocery,76024,42822,0,4624,7,5,10,High,3341.07,2
+MP Nagar,Grocery,49882,41636,15,1407,9,8,3,Low,1960.06,0
+MP Nagar,Grocery,35923,25584,5,2384,6,6,10,Medium,2075.7,2
+New Market,Cafe,39165,39610,8,4966,8,3,9,Low,3362.08,2
+New Market,Clothing,77203,15058,3,857,6,8,3,High,902.5,0
+Bawadiya Kalan,Pharmacy,14114,14101,1,4331,2,9,2,Medium,2141.3,0
+Bairagarh,Cafe,74965,17497,3,4987,1,8,9,Medium,2587.5,2
+Hoshangabad Road,Grocery,46321,9658,0,3954,5,4,10,High,2165.74,2
+MP Nagar,Cafe,35426,16381,18,4366,9,6,9,High,2523.18,2
+MP Nagar,Grocery,27772,45312,9,2306,8,1,4,High,2348.24,1
+Arera Colony,Grocery,13712,45486,20,3658,4,4,9,Low,2762.65,2
+New Market,Cafe,11367,22154,14,1680,5,8,3,Low,1260.42,0
+Hoshangabad Road,Clothing,61924,24539,18,1061,5,1,7,Low,1399.07,1
+Gulmohar Colony,Grocery,13726,16777,15,3947,6,3,7,High,2231.1,1
+Bawadiya Kalan,Clothing,37723,39396,20,3675,3,1,8,High,2533.69,1
+Bairagarh,Pharmacy,19108,35373,3,975,5,9,10,Low,1735.07,2
+Kolar Road,Grocery,45643,38154,1,2518,2,2,4,Medium,1903.89,1
+Bairagarh,Clothing,41324,11031,12,4298,10,9,3,Low,2338.47,0
+Ayodhya Bypass,Clothing,18927,32997,0,1101,1,4,3,Medium,1212.32,0
+MP Nagar,Pharmacy,32443,11439,16,3484,1,2,5,High,1634.97,1
+Bawadiya Kalan,Clothing,73449,27785,12,4166,10,4,1,High,2485.51,1
+Ayodhya Bypass,Clothing,70233,18392,3,2945,7,10,10,Low,1951.85,2
+Hoshangabad Road,Pharmacy,35537,33669,6,1581,2,6,3,Low,1525.17,0
+Kolar Road,Grocery,32612,33939,16,3401,4,7,6,High,2377.11,0
+New Market,Clothing,16471,7282,8,757,5,3,3,Low,610.44,1
+Bawadiya Kalan,Clothing,45631,39624,3,2880,7,3,5,High,2628.5,2
+Bawadiya Kalan,Clothing,41348,29364,18,522,2,10,9,High,1172.47,0
+MP Nagar,Cafe,74732,6998,0,3781,6,8,2,Medium,1873.98,0
+Shahpura,Pharmacy,11177,36705,9,4366,1,5,2,Low,2422.16,0
+Bawadiya Kalan,Cafe,14760,43244,3,2810,7,4,6,High,2528.01,2
+Arera Colony,Pharmacy,42779,14428,8,552,9,7,6,Low,1146.92,0
+Kolar Road,Grocery,31636,42437,12,2497,5,7,8,Medium,2389.48,2
+Kolar Road,Grocery,63551,17336,13,2075,5,9,2,Medium,1280.3,0
+Arera Colony,Clothing,21556,14342,9,1757,4,9,9,Low,1272.85,0
+Gulmohar Colony,Pharmacy,37598,44832,5,2641,3,5,2,Low,2183.77,0
+Arera Colony,Grocery,21563,12446,15,3175,9,8,1,High,1891.76,0
+Arera Colony,Pharmacy,56819,43392,5,3264,5,10,10,Medium,2605.51,2
+Kolar Road,Grocery,36966,12461,16,3066,8,1,2,Medium,1798.87,1
+Bairagarh,Cafe,69889,39587,9,2153,9,9,7,Medium,2317.45,2
+Kolar Road,Grocery,36987,15516,17,387,5,8,8,Low,678.08,0
+Shahpura,Cafe,68348,18749,17,3317,10,6,5,High,2063.51,1
+MP Nagar,Grocery,34596,22514,2,3954,9,3,6,Low,2617.72,1
+Ayodhya Bypass,Clothing,43174,40426,19,1547,2,3,1,Low,1672.28,0
+Bairagarh,Cafe,74106,41268,20,707,9,8,6,Low,1576.41,0
+New Market,Grocery,79967,29950,14,4652,4,5,8,High,2395.03,2
+Ayodhya Bypass,Clothing,69182,39888,14,1864,6,10,3,Low,1768.64,0
+MP Nagar,Cafe,49310,41788,3,1325,6,7,1,Medium,1921.49,0
+Shahpura,Clothing,66088,15213,8,1335,6,5,4,Medium,1008.2,1
+Shahpura,Pharmacy,18906,41027,18,1129,2,8,1,Medium,1520.55,0
+New Market,Pharmacy,46914,33011,16,2771,7,10,8,High,2346.61,2
+Bairagarh,Cafe,55379,47849,10,4062,6,10,5,Low,2987.03,2
+Gulmohar Colony,Grocery,47650,39591,8,4642,1,4,1,High,2551.84,1
+Arera Colony,Cafe,56881,22858,9,3277,2,2,8,Low,1973.93,1
+Bairagarh,Clothing,56413,23626,17,3822,7,3,9,Medium,2439.46,1
+Gulmohar Colony,Grocery,16012,18467,19,1575,1,8,10,Low,1218.77,0
+Shahpura,Pharmacy,60115,44758,12,2996,1,7,2,Low,2331.52,0
+Kolar Road,Grocery,17151,8134,7,908,1,2,9,Low,745.14,1
+MP Nagar,Pharmacy,67716,21743,6,1078,8,6,8,High,1370.79,2
+New Market,Grocery,46378,20434,16,2563,4,9,7,Low,1510.17,0
+MP Nagar,Grocery,52652,15233,20,825,4,4,3,Low,591.85,1
+Hoshangabad Road,Grocery,23467,6141,14,2601,2,9,2,Low,1103.5,0
+Hoshangabad Road,Clothing,41010,23019,19,3462,1,2,7,High,1833.74,1
+Bairagarh,Clothing,64691,25384,14,1316,10,2,5,High,1608.47,1
+Shahpura,Cafe,74157,47903,0,4151,9,9,6,High,3226.72,2
+Shahpura,Cafe,22289,41129,13,2297,7,7,4,Low,2061.16,0
+Arera Colony,Pharmacy,54976,27967,4,2906,4,7,2,Medium,1997.71,0
+Arera Colony,Clothing,53596,45603,10,878,6,1,9,Medium,1671.07,2
+Arera Colony,Pharmacy,33171,16172,15,1072,2,6,3,Medium,739.34,0
+Kolar Road,Cafe,54139,21390,1,2910,7,7,7,Low,2181.9,2
+Ayodhya Bypass,Pharmacy,58713,8267,7,2223,2,6,8,Medium,1164.64,1
+Bawadiya Kalan,Cafe,39734,44332,10,698,10,6,2,Medium,1851.77,0
+Ayodhya Bypass,Clothing,73646,31167,17,3441,8,2,6,Medium,2313.5,1
+MP Nagar,Grocery,13654,26312,2,324,8,6,8,Low,1345.62,2
+Ayodhya Bypass,Clothing,28743,32840,0,940,1,4,7,Medium,1467.49,2
+Kolar Road,Pharmacy,58368,23990,10,1914,8,9,3,Medium,1531.87,0
+MP Nagar,Pharmacy,16441,49179,15,4909,2,1,1,Low,3002.15,1
+Ayodhya Bypass,Clothing,34611,10906,17,1206,6,8,6,High,1009.34,0
+Kolar Road,Clothing,22149,45379,15,224,1,5,8,Medium,1478.52,0
+Bawadiya Kalan,Cafe,69189,22297,9,3346,5,1,6,High,2089.34,1
+Ayodhya Bypass,Pharmacy,31675,7011,17,3031,7,4,5,Medium,1459.18,1
+Kolar Road,Pharmacy,52668,49014,5,4225,10,1,8,Low,3566.9,2
+Arera Colony,Clothing,23673,16738,18,3071,1,6,2,High,1324.71,0
+Shahpura,Grocery,75429,33797,3,2117,2,2,1,High,1663.16,1
+Arera Colony,Pharmacy,33669,16120,12,2515,7,5,1,High,1638.99,0
+Shahpura,Grocery,44068,13767,13,4690,6,7,4,High,2087.68,1
+New Market,Clothing,19435,27852,2,3196,3,2,6,Medium,2268.87,1
+New Market,Clothing,62249,18703,9,1709,10,6,9,Medium,1630.64,2
+New Market,Cafe,47384,5929,5,817,2,6,1,High,468.68,0
+Bawadiya Kalan,Pharmacy,41401,16951,0,3661,10,5,1,Medium,2264.01,1
+Arera Colony,Grocery,44084,31039,13,1116,4,5,5,High,1382.4,0
+Shahpura,Cafe,65826,34504,7,3665,3,3,10,High,2604.27,2
+Kolar Road,Pharmacy,46451,22438,18,4801,7,10,5,Low,2401.22,0
+MP Nagar,Cafe,17227,10744,13,4570,8,10,5,High,2360.85,0
+Kolar Road,Clothing,41910,23284,9,2060,2,2,10,Medium,1693.82,1
+MP Nagar,Pharmacy,46041,47417,16,1148,10,7,6,High,2210.15,2
+Hoshangabad Road,Cafe,75681,44748,8,1457,7,1,8,Low,1979.68,2
+Kolar Road,Cafe,75481,12069,5,3526,8,6,3,Medium,1828.93,1
+Ayodhya Bypass,Grocery,78576,47359,10,215,6,6,9,Low,1694.99,2
+Ayodhya Bypass,Cafe,74174,24799,6,2195,6,3,1,Low,1522.14,1
+Bairagarh,Pharmacy,36160,38210,16,1901,10,2,4,High,1900.2,1
+Arera Colony,Pharmacy,27633,33226,0,2246,1,2,9,Low,1898.2,2
+MP Nagar,Grocery,27014,9652,4,1720,4,9,8,Low,1266.71,0
+MP Nagar,Pharmacy,59104,29323,8,4880,1,5,10,Medium,2990.97,2
+Arera Colony,Clothing,51621,47138,17,3050,4,7,9,Low,2600.82,2
+Bawadiya Kalan,Pharmacy,78388,12597,20,3892,2,5,1,High,1782.35,1
+Bairagarh,Pharmacy,26014,42226,1,3041,5,7,9,High,2625.58,2
+Bawadiya Kalan,Cafe,43755,11591,10,1077,10,4,3,High,1212.68,1
+Bawadiya Kalan,Cafe,50390,30833,5,3166,9,8,10,Low,2564.31,2
+Bawadiya Kalan,Pharmacy,33711,16826,7,883,10,10,9,Medium,1698.01,2
+Arera Colony,Grocery,67993,31417,3,340,3,10,1,High,985.87,0
+Bawadiya Kalan,Cafe,37213,23693,17,1653,8,7,1,Low,1375.88,0
+Ayodhya Bypass,Grocery,67784,19138,10,4678,3,10,9,High,2515.4,2
+New Market,Pharmacy,17421,7169,4,1112,6,5,6,High,1029.17,0
+Hoshangabad Road,Pharmacy,27727,23556,14,286,4,6,4,Medium,826.58,0
+MP Nagar,Clothing,14358,27052,17,1981,8,5,7,High,1905.69,0
+MP Nagar,Cafe,75108,11313,1,4686,6,7,5,Medium,2358.81,2
+Hoshangabad Road,Pharmacy,42117,13315,10,530,8,2,10,Low,1113.56,1
+Arera Colony,Clothing,41910,13036,12,338,1,5,7,High,607.26,0
+Kolar Road,Cafe,65754,36778,3,2445,6,10,8,Low,2111.79,2
+Arera Colony,Pharmacy,72438,32734,6,175,1,3,8,Low,950.27,2
+MP Nagar,Pharmacy,39371,28173,10,1456,1,9,1,Low,1302.61,0
+MP Nagar,Cafe,61501,35403,3,2430,8,6,8,High,2277.88,2
+Hoshangabad Road,Cafe,70946,5785,14,4786,7,10,6,Medium,2196.43,2
+Bawadiya Kalan,Cafe,48467,11139,0,2002,3,3,4,High,1410.42,1
+Arera Colony,Pharmacy,27625,11344,2,4113,6,7,8,Low,2234.36,2
+Shahpura,Pharmacy,43893,23800,13,4770,9,4,3,Medium,2653.49,1
+Hoshangabad Road,Clothing,41007,30372,5,2159,7,3,4,Low,2024.56,1
+Ayodhya Bypass,Grocery,49532,25538,17,240,3,8,6,Medium,822.62,0
+MP Nagar,Cafe,64253,19973,0,1889,6,4,7,High,1790.77,2
+Hoshangabad Road,Pharmacy,22323,10619,5,3726,4,1,4,Medium,1927.13,1
+Arera Colony,Pharmacy,24210,39704,5,116,3,6,4,High,1436.23,0
+MP Nagar,Cafe,26456,41575,20,4448,9,10,7,Low,2987.14,2
+Kolar Road,Grocery,41367,44919,15,564,10,1,6,Medium,1987.07,1
+Hoshangabad Road,Cafe,64624,47261,4,4571,2,5,8,Low,3136.78,2
+Bairagarh,Grocery,20106,32716,16,1927,1,7,1,Medium,1279.81,0
+MP Nagar,Pharmacy,78008,8236,9,3128,2,6,10,High,1351.08,2
+Arera Colony,Grocery,74315,20848,20,619,7,2,7,Medium,1018.05,1
+New Market,Clothing,79249,7352,17,189,10,4,7,Medium,819.18,1
+Shahpura,Pharmacy,20756,6932,6,4915,1,2,7,High,2137.28,1
+Gulmohar Colony,Clothing,78011,15913,2,2951,6,1,7,High,1914.77,1
+Bawadiya Kalan,Cafe,46378,13556,12,2943,7,3,10,High,1893.94,1
+Gulmohar Colony,Cafe,14255,26300,14,4825,9,3,10,Medium,2943.65,2
+Arera Colony,Cafe,24484,10498,19,1984,8,7,8,Low,1509.97,0
+Ayodhya Bypass,Grocery,66549,15582,18,4271,6,1,9,Medium,2130.77,1
+Ayodhya Bypass,Pharmacy,44503,14569,2,1025,3,9,9,Medium,1149.8,2
+New Market,Cafe,55113,9857,3,3834,8,6,2,Low,1936.05,1
+Bawadiya Kalan,Cafe,15249,5340,4,1069,7,4,7,High,937.0,1
+Bairagarh,Pharmacy,29201,48949,0,1194,3,3,7,Medium,2119.25,2
+New Market,Cafe,68576,21766,3,3295,9,3,4,Low,2139.07,1
+Gulmohar Colony,Clothing,19686,31132,11,1504,2,2,9,High,1550.75,1
+New Market,Pharmacy,63363,13491,9,3464,3,2,8,High,2045.52,1
+Gulmohar Colony,Pharmacy,10661,5138,20,4390,2,10,1,Medium,1678.76,0
+MP Nagar,Pharmacy,54843,5358,19,4082,1,5,2,High,1437.15,1
+Ayodhya Bypass,Clothing,70963,14714,12,4423,4,9,2,High,2018.66,0
+MP Nagar,Pharmacy,52828,24840,13,4113,5,2,8,Low,2297.83,1
+Shahpura,Clothing,58604,39395,4,4656,6,2,1,Low,3034.54,1
+Bawadiya Kalan,Pharmacy,20526,35654,3,4813,5,6,4,High,3017.04,2
+Bairagarh,Grocery,78910,30879,13,3192,1,10,10,Low,2177.84,2
+Gulmohar Colony,Cafe,35592,20996,9,4259,3,2,5,High,2305.23,1
+Bairagarh,Grocery,38982,42772,16,2174,1,4,9,Medium,1912.75,2
+Gulmohar Colony,Cafe,10207,31762,9,384,5,6,7,Low,1143.66,0
+Arera Colony,Clothing,78619,18283,6,1287,5,5,8,High,1393.58,2
+New Market,Grocery,39328,44420,15,4069,6,1,9,High,3043.51,1
+Shahpura,Pharmacy,56479,24554,0,3065,8,6,7,Low,2457.3,2
+Ayodhya Bypass,Cafe,30103,25219,16,4419,10,1,5,Low,2647.04,1
+Gulmohar Colony,Cafe,49891,39919,20,883,1,3,5,Medium,1272.35,1
+Bairagarh,Grocery,20754,14429,8,1049,4,10,10,High,1123.95,0
+Shahpura,Clothing,65922,49695,5,4039,10,5,6,Medium,3353.1,2
+Kolar Road,Grocery,58231,44673,18,144,1,10,5,Medium,1159.02,0
+Kolar Road,Clothing,39301,24218,12,1910,9,5,9,Medium,1868.73,2
+MP Nagar,Clothing,72711,17452,2,4666,7,10,3,Low,2572.51,2
+Ayodhya Bypass,Cafe,51323,23951,6,2181,7,6,3,Medium,1679.54,0
+Arera Colony,Grocery,28752,6307,8,3598,5,10,7,Low,1936.09,0
+Bairagarh,Grocery,23395,19852,4,929,7,8,7,Low,1404.76,0
+New Market,Clothing,66273,30232,9,2009,2,5,6,Medium,1463.19,1
+New Market,Grocery,14895,40428,16,2681,4,1,3,Medium,2027.51,1
+Bairagarh,Pharmacy,20699,48171,11,791,7,5,7,High,1728.69,2
+Bawadiya Kalan,Pharmacy,75061,31485,15,4119,3,3,5,Medium,2359.11,1
+Arera Colony,Grocery,19715,15238,2,1031,2,4,7,High,981.97,0
+Shahpura,Grocery,29169,43975,8,3506,10,8,2,Medium,2889.96,0
+Gulmohar Colony,Clothing,26163,6140,14,247,2,7,6,Medium,291.85,0
+Bawadiya Kalan,Pharmacy,15782,29842,4,1132,1,5,8,Medium,1431.02,2
+Gulmohar Colony,Pharmacy,45585,31421,12,1411,5,2,1,Medium,1496.26,1
+Gulmohar Colony,Cafe,40682,6708,13,487,6,6,4,High,653.87,0
+Bawadiya Kalan,Clothing,57864,8630,19,3221,6,6,1,High,1597.11,1
+MP Nagar,Cafe,65114,24595,14,1973,9,10,1,Medium,1852.25,0
+Kolar Road,Pharmacy,48067,15485,15,3688,4,10,10,Medium,2039.12,2
+Gulmohar Colony,Clothing,52685,33308,12,1015,1,6,8,High,1398.47,2
+Bawadiya Kalan,Grocery,28073,49789,16,1978,6,9,7,Low,2199.0,2
+Bawadiya Kalan,Clothing,46035,31086,7,3848,5,8,10,Low,2502.0,2
+Hoshangabad Road,Grocery,74977,21859,20,377,10,8,1,Low,1111.81,0
+MP Nagar,Grocery,75450,12684,1,2077,6,1,2,High,1484.2,1
+Ayodhya Bypass,Clothing,20382,30552,4,1959,3,5,4,High,1576.49,0
+Hoshangabad Road,Grocery,14437,6207,5,3136,2,7,1,Low,1201.95,0
+Hoshangabad Road,Cafe,74612,6960,11,3471,6,6,3,Low,1603.98,1
+Bairagarh,Pharmacy,71929,5557,17,4813,1,5,8,Medium,1929.34,1
+Kolar Road,Grocery,22329,34689,0,2282,7,8,8,High,2215.01,2
+Bawadiya Kalan,Cafe,35169,18893,16,4775,7,3,8,High,2589.63,1
+Kolar Road,Grocery,44594,37272,10,1270,10,6,6,Low,2048.01,2
+Arera Colony,Pharmacy,70631,5882,9,589,7,5,6,Low,839.41,1
+Bairagarh,Cafe,55033,42529,18,2625,10,8,5,High,2505.59,2
+Ayodhya Bypass,Pharmacy,73133,43635,13,1282,1,4,9,Medium,1484.42,2
+Kolar Road,Pharmacy,62290,34535,9,4579,4,8,4,Low,2534.63,2
+New Market,Cafe,41750,17869,14,4358,7,10,10,High,2402.38,2
+Gulmohar Colony,Cafe,50461,12166,18,2588,9,2,7,High,1626.81,1
+Arera Colony,Cafe,34226,17982,3,1976,5,9,1,Medium,1475.13,0
+MP Nagar,Clothing,16721,45697,1,2562,2,9,9,Medium,2311.23,2
+Ayodhya Bypass,Cafe,66154,43115,8,1730,7,10,7,Low,2230.07,2
+Arera Colony,Cafe,30609,12269,9,387,10,10,10,Low,1073.66,2
+Gulmohar Colony,Cafe,62130,33064,10,4382,1,6,9,Low,2460.21,2
+Bairagarh,Cafe,65249,18527,13,2007,7,4,7,High,1480.18,1
+Gulmohar Colony,Grocery,58895,7454,6,1261,6,4,2,Low,1153.53,1
+Hoshangabad Road,Clothing,15656,25878,14,229,7,6,6,High,1036.36,0
+Gulmohar Colony,Pharmacy,73740,17991,18,2463,10,5,10,Low,2000.92,2
+Hoshangabad Road,Cafe,74309,7808,14,243,3,6,4,Medium,254.43,0
+Bairagarh,Grocery,39984,44410,7,115,3,7,3,Medium,1462.39,0
+Shahpura,Grocery,15901,41593,10,344,7,7,2,High,1505.13,0
+Hoshangabad Road,Grocery,41552,41304,8,1026,2,9,6,Medium,1619.1,0
+MP Nagar,Pharmacy,41055,35386,14,3278,1,8,8,High,2223.33,2
+Gulmohar Colony,Cafe,47685,8802,0,2276,9,6,6,High,1699.05,2
+Gulmohar Colony,Clothing,24716,33753,0,986,9,6,9,Medium,1989.83,2
+MP Nagar,Clothing,21138,26083,18,440,7,5,5,High,1066.17,0
+New Market,Grocery,45298,23354,2,2151,7,1,2,Medium,1660.94,1
+Bawadiya Kalan,Pharmacy,61112,27190,9,3498,3,9,8,Low,2208.97,2
+Shahpura,Pharmacy,33429,11142,7,4050,10,9,9,Low,2464.49,2
+Ayodhya Bypass,Pharmacy,60200,33398,14,405,2,9,10,Medium,1230.03,2
+Hoshangabad Road,Clothing,58244,46862,9,1007,7,8,4,Medium,1981.39,0
+MP Nagar,Grocery,27347,38132,0,2754,9,10,6,Medium,2608.98,2
+Bairagarh,Cafe,26920,24503,17,3892,1,3,10,Medium,2133.08,1
+Hoshangabad Road,Clothing,41822,39631,1,4142,4,1,8,Low,2695.76,2
+Bawadiya Kalan,Grocery,56659,21499,18,1471,6,8,9,High,1391.97,2
+Bairagarh,Grocery,50108,44852,12,420,7,7,5,High,1822.58,0
+Arera Colony,Cafe,17967,13016,0,4754,10,5,6,Low,2703.31,2
+Gulmohar Colony,Cafe,21871,7384,1,4159,7,10,4,High,2036.29,0
+Arera Colony,Cafe,43613,20072,15,1231,10,7,5,Low,1457.72,0
+Hoshangabad Road,Pharmacy,38179,41703,14,2678,2,10,7,High,2217.54,0
+Bawadiya Kalan,Cafe,62188,19482,12,4142,4,4,9,Medium,2222.84,1
+Shahpura,Grocery,65099,45510,15,3467,5,9,10,Medium,2874.74,2
+Hoshangabad Road,Cafe,45262,26826,16,917,1,10,6,Medium,1111.17,0
+MP Nagar,Grocery,28268,7490,20,111,1,2,6,Low,146.11,1
+Kolar Road,Clothing,70545,30518,6,294,10,9,8,Low,1631.49,2
+Hoshangabad Road,Pharmacy,49922,29045,16,2637,3,9,4,High,1718.11,0
+Gulmohar Colony,Clothing,52913,31910,6,2942,10,5,3,High,2339.54,1
+Gulmohar Colony,Clothing,65677,29566,12,2329,3,1,7,High,1692.7,1
+Hoshangabad Road,Grocery,59841,38905,4,3109,8,7,5,Low,2633.92,2
+Bairagarh,Clothing,56332,32103,16,4851,9,10,2,High,2835.54,0
+Kolar Road,Grocery,35032,41188,2,2177,1,10,2,Medium,1949.03,0
+MP Nagar,Cafe,47846,10845,6,3967,2,4,6,High,1824.48,1
+Hoshangabad Road,Cafe,69474,26162,16,4973,10,9,8,Medium,2908.06,2
+Bairagarh,Grocery,54936,41674,6,543,2,6,1,Low,1227.26,0
+Gulmohar Colony,Cafe,39794,24337,20,397,4,3,6,Medium,966.98,1
+Gulmohar Colony,Pharmacy,71588,27313,0,944,2,6,2,Medium,1105.19,0
+Bawadiya Kalan,Clothing,60331,31943,16,1115,7,10,2,Medium,1418.51,0
+Hoshangabad Road,Pharmacy,38141,17413,16,1484,9,6,7,Low,1402.88,0
+Kolar Road,Clothing,19074,5276,10,1497,7,5,10,Low,1249.86,1
+New Market,Cafe,16406,22611,2,653,6,2,1,Low,930.29,0
+Kolar Road,Pharmacy,33291,44105,14,2450,10,10,6,Low,2524.83,2
+Gulmohar Colony,Cafe,51568,16944,20,4616,1,10,7,High,2272.33,0
+Gulmohar Colony,Clothing,56851,20906,10,1369,10,2,8,Low,1765.4,1
+Arera Colony,Grocery,64823,25536,15,1360,9,7,7,Medium,1562.73,2
+Gulmohar Colony,Grocery,33312,32810,8,284,5,2,6,Low,1319.11,1
+MP Nagar,Pharmacy,53108,17306,0,4663,5,6,9,High,2614.76,2
+Ayodhya Bypass,Cafe,76918,15503,15,2510,6,5,3,High,1653.01,1
+Hoshangabad Road,Cafe,44171,24225,8,4531,9,4,6,High,2490.46,1
+Kolar Road,Pharmacy,51779,41976,18,2309,8,7,4,Medium,2308.84,0
+Ayodhya Bypass,Grocery,78828,16590,11,3772,8,8,2,Low,2058.2,0
+Bairagarh,Clothing,22411,15886,18,4783,8,4,1,Low,2246.88,1
+New Market,Pharmacy,67009,17866,8,1981,1,1,1,Low,1062.82,1
+MP Nagar,Clothing,25422,6088,6,4396,1,1,10,Medium,1850.81,1
+Kolar Road,Grocery,52468,8363,13,621,8,1,3,Medium,725.01,1
+Ayodhya Bypass,Cafe,42371,37792,18,1987,5,1,4,High,1722.28,1
+New Market,Grocery,67022,14764,18,2652,9,5,2,High,1645.32,1
+Arera Colony,Pharmacy,61196,25620,1,3909,2,4,1,Low,2187.64,1
+MP Nagar,Cafe,36715,47727,8,4983,9,9,4,Medium,3401.57,2
+MP Nagar,Pharmacy,37605,17935,12,4255,8,3,7,Medium,2577.6,1
+Arera Colony,Pharmacy,41174,13068,14,4773,9,7,10,Low,2552.41,2
+Hoshangabad Road,Grocery,19956,12295,2,4516,4,8,6,Low,2217.09,2
+Arera Colony,Pharmacy,79252,46160,10,3579,1,6,6,High,2489.36,2
+MP Nagar,Grocery,71949,16390,20,1509,1,10,9,High,1117.76,0
+MP Nagar,Cafe,72646,46216,13,1794,5,1,2,High,2033.26,1
+Ayodhya Bypass,Grocery,73037,25131,7,4764,2,8,4,Low,2495.21,2
+Gulmohar Colony,Cafe,16548,34218,17,626,8,10,5,Low,1442.14,0
+New Market,Grocery,33177,15433,18,2760,10,3,1,High,1567.76,1
+Arera Colony,Clothing,34022,20038,15,2272,5,8,8,High,1604.21,0
+New Market,Clothing,15542,33182,1,379,5,4,8,Medium,1590.01,2
+Arera Colony,Pharmacy,70428,16528,7,3064,2,8,6,Medium,1796.92,2
+Bairagarh,Grocery,32740,26281,5,4077,7,1,5,High,2563.38,1
+MP Nagar,Grocery,69353,13605,11,2769,8,3,8,High,1800.83,1
+Gulmohar Colony,Cafe,66532,39782,14,2993,10,6,3,Medium,2490.74,2
+Ayodhya Bypass,Pharmacy,26052,6381,7,1851,1,9,3,High,839.37,0
+Gulmohar Colony,Grocery,57076,6098,3,4081,2,2,2,Medium,1830.11,1
+Gulmohar Colony,Pharmacy,63420,24810,14,4869,10,1,5,Medium,2750.5,1
+Gulmohar Colony,Clothing,10671,29322,19,2461,4,10,3,Medium,1786.77,0
+New Market,Grocery,10163,46869,16,4527,5,3,3,Low,2883.25,1
+Arera Colony,Grocery,51424,37955,12,4231,2,4,6,Low,2721.82,1
+Shahpura,Pharmacy,63744,49716,17,1808,1,5,8,High,2038.38,2
+Bairagarh,Grocery,20634,15207,1,2786,9,3,2,Medium,1780.34,1
+Kolar Road,Pharmacy,14798,26793,12,2995,1,10,4,Low,1737.14,0
+Gulmohar Colony,Grocery,32420,7092,12,4635,4,2,7,High,2160.71,1
+Hoshangabad Road,Cafe,39300,33220,14,2876,2,2,1,High,1777.19,1
+New Market,Pharmacy,20749,23514,19,1219,4,7,1,High,1056.71,0
+Ayodhya Bypass,Grocery,35121,43010,9,3088,8,9,10,High,2714.76,2
+Kolar Road,Clothing,47487,13549,2,4359,8,10,7,High,2630.29,2
+Shahpura,Grocery,43361,27031,18,4343,9,2,7,Medium,2868.93,1
+Hoshangabad Road,Clothing,31223,10185,2,294,5,7,1,High,763.84,0
+Shahpura,Clothing,24056,20271,13,762,7,7,1,Medium,1011.04,0
+Kolar Road,Cafe,38380,10776,7,579,3,7,4,Low,631.77,0
+Gulmohar Colony,Pharmacy,36035,17449,3,4318,10,3,5,High,2489.61,1
+Hoshangabad Road,Grocery,40620,29297,19,1523,4,7,5,Low,1579.05,0
+Shahpura,Cafe,29877,45591,10,2808,10,1,4,Medium,2735.65,1
+Ayodhya Bypass,Grocery,65316,20717,10,3275,9,10,8,Medium,2352.05,2
+Arera Colony,Clothing,74041,45123,10,3914,10,1,7,Low,3082.98,2
+MP Nagar,Pharmacy,63352,44233,1,2114,10,5,9,High,2429.94,2
+Arera Colony,Grocery,40911,15350,16,3889,1,2,7,High,1692.1,1
+Kolar Road,Grocery,42784,35622,8,4905,2,9,10,Low,2933.06,2
+New Market,Clothing,13191,40323,1,2543,5,7,1,Low,2115.86,0
+MP Nagar,Grocery,43160,7951,14,1011,3,4,7,Low,708.85,1
+Bairagarh,Grocery,74641,22622,15,3313,2,4,1,High,1739.61,1
+Ayodhya Bypass,Clothing,59723,9727,3,2464,1,2,7,High,1436.94,1
+Bairagarh,Cafe,13631,43454,7,3729,10,5,10,High,3051.38,2
+Hoshangabad Road,Clothing,16172,41469,8,3572,3,4,8,Low,2466.36,2
+MP Nagar,Cafe,52080,40548,4,780,1,1,9,High,1498.95,2
+Bairagarh,Pharmacy,30281,28782,15,4751,1,8,3,Medium,2268.0,0
+Bairagarh,Cafe,38671,33454,12,709,1,3,4,Low,1193.78,0
+Shahpura,Cafe,61431,7368,6,2256,8,6,4,High,1433.39,1
+Arera Colony,Pharmacy,38602,20592,19,3966,3,4,9,Low,2320.95,1
+Shahpura,Cafe,61399,27173,16,471,1,9,7,Medium,1017.64,0
+MP Nagar,Clothing,33472,38204,2,715,7,7,3,Medium,1806.74,0
+MP Nagar,Cafe,59230,40596,4,2353,10,9,10,Low,2458.06,2
+Kolar Road,Pharmacy,17099,39324,18,4238,3,10,5,Low,2261.11,0
+Shahpura,Clothing,35431,28864,11,964,8,3,7,Medium,1583.3,1
+Bawadiya Kalan,Pharmacy,66492,35750,6,1368,4,1,8,Low,1764.87,1
+Arera Colony,Pharmacy,57684,15576,8,884,4,5,1,Medium,836.52,0
+MP Nagar,Grocery,40111,21566,5,4671,5,3,2,Medium,2443.58,1
+Kolar Road,Grocery,73936,12190,16,4278,6,6,7,High,2039.65,1
+Shahpura,Pharmacy,32614,28071,15,2337,7,8,2,Low,1836.04,0
+Arera Colony,Pharmacy,51991,43333,2,4154,4,4,7,Low,3000.84,2
+Shahpura,Pharmacy,70920,20369,20,4995,8,5,9,High,2607.5,1
+Bairagarh,Grocery,73530,29035,3,1035,6,5,2,Medium,1382.76,0
+Kolar Road,Grocery,46224,6589,9,4080,1,4,7,Low,1733.54,1
+Arera Colony,Cafe,17788,30235,4,2438,1,4,4,High,1672.09,0
+Gulmohar Colony,Cafe,38082,5159,20,425,9,4,2,High,471.61,0
+Hoshangabad Road,Pharmacy,26531,17145,9,1634,10,4,7,Low,1621.78,1
+Hoshangabad Road,Clothing,54857,20373,11,3580,6,4,5,High,2128.41,1
+Arera Colony,Clothing,20142,36921,9,3961,10,5,1,Medium,2688.36,0
+Shahpura,Grocery,58355,44323,12,2085,8,2,5,High,2158.75,1
+Kolar Road,Grocery,19866,21237,10,4703,7,2,3,Medium,2558.03,1
+Hoshangabad Road,Grocery,74027,46971,15,2878,6,9,7,Medium,2464.84,2
+Kolar Road,Pharmacy,67906,13244,7,1370,4,2,6,Low,1089.68,1
+Hoshangabad Road,Clothing,38138,19743,7,740,7,6,8,High,1228.97,2
+Bairagarh,Cafe,39956,36566,7,4803,9,2,5,Medium,3249.77,1
+Shahpura,Pharmacy,15439,23691,12,4178,10,5,2,Medium,2422.43,1
+Bairagarh,Cafe,57241,38996,1,4761,10,4,9,High,3573.8,2
+Hoshangabad Road,Cafe,52533,10590,11,1467,7,7,8,Medium,1333.43,2
+Gulmohar Colony,Pharmacy,38270,10585,9,4142,1,7,6,High,2036.41,1
+Gulmohar Colony,Cafe,49279,14227,11,2675,10,6,10,Low,2048.39,2
+Bairagarh,Clothing,33888,33278,10,3703,9,10,7,Medium,2665.9,2
+Gulmohar Colony,Cafe,27630,43814,14,1681,4,5,9,Medium,1921.96,2
+Hoshangabad Road,Clothing,71063,17237,15,2086,3,1,7,High,1335.48,1
+Arera Colony,Clothing,45144,20649,16,2340,4,3,3,High,1613.95,1
+Bairagarh,Clothing,62161,42713,1,4066,4,9,6,High,2856.13,2
+New Market,Grocery,60979,12927,17,2205,10,1,7,High,1701.02,1
+Shahpura,Cafe,16979,12016,11,228,2,5,2,Medium,450.9,0
+Gulmohar Colony,Pharmacy,36189,19027,18,4901,1,2,3,Low,2175.99,1
+Gulmohar Colony,Pharmacy,52600,29142,17,4096,10,4,4,Low,2640.97,1
+MP Nagar,Cafe,69560,28545,16,951,1,1,10,Low,1286.01,1
+Bawadiya Kalan,Grocery,71558,36897,5,4203,8,3,6,Low,2842.06,2
+Bairagarh,Grocery,16910,8167,14,2176,2,10,1,High,928.28,0
+Ayodhya Bypass,Clothing,67713,49757,2,3094,10,7,9,Medium,3107.76,2
+Gulmohar Colony,Cafe,56857,31917,5,3844,5,10,5,Medium,2509.67,2
+Shahpura,Cafe,44964,27736,2,2856,4,3,7,Medium,2036.88,2
+New Market,Pharmacy,35227,32990,0,1744,8,4,9,High,2146.81,2
+Gulmohar Colony,Cafe,15978,19087,12,4471,2,2,9,Medium,2214.91,1
+New Market,Grocery,27153,27440,20,3244,10,3,1,High,2029.1,1
+Hoshangabad Road,Cafe,69765,40205,13,342,9,9,1,Medium,1504.32,0
+Hoshangabad Road,Pharmacy,49071,20275,12,4185,7,3,3,Low,2171.78,1
+Bawadiya Kalan,Clothing,79519,10276,3,270,7,5,6,High,879.41,1
+Arera Colony,Pharmacy,19503,46627,6,752,1,2,2,Medium,1283.41,0
+Ayodhya Bypass,Pharmacy,70703,45586,9,3612,2,4,10,Low,2641.35,2
+MP Nagar,Clothing,74379,42496,6,1599,4,7,1,Low,1759.29,0
+Bawadiya Kalan,Pharmacy,67866,24008,20,2199,4,7,1,Low,1239.19,0
+Kolar Road,Pharmacy,26905,10738,14,2258,3,3,5,High,1181.48,1
+MP Nagar,Cafe,55838,37402,14,2072,7,5,4,High,2108.75,1
+Bairagarh,Cafe,68279,10793,3,4025,8,1,1,Medium,1951.54,1
+Shahpura,Clothing,36806,42291,5,2358,2,10,4,Low,2018.04,0
+Kolar Road,Cafe,55000,10571,19,4139,4,10,3,Medium,1983.19,0
+Kolar Road,Cafe,32168,36331,4,2135,3,10,2,Medium,1719.34,0
+Bawadiya Kalan,Pharmacy,48714,21209,19,3371,2,1,9,Low,2029.8,1
+Arera Colony,Grocery,64093,30394,11,957,6,5,1,Medium,1286.9,0
+Bawadiya Kalan,Cafe,65419,48148,0,3923,4,10,7,High,2996.94,2
+Bairagarh,Grocery,59145,30682,7,1149,6,9,4,Medium,1648.35,0
+Gulmohar Colony,Cafe,12461,7224,0,4090,2,1,5,Low,1813.59,1
+Gulmohar Colony,Cafe,24291,46157,4,398,4,1,10,High,1816.33,2
+Arera Colony,Clothing,56804,49452,5,1023,6,4,5,High,2082.81,2
+Bairagarh,Clothing,74946,48408,20,4332,5,4,1,Medium,2741.32,1
+Arera Colony,Clothing,71332,37441,2,4406,3,2,6,Medium,2711.98,1
+New Market,Grocery,40841,46430,14,2899,8,9,9,High,2682.54,2
+Gulmohar Colony,Pharmacy,58758,44129,4,4975,7,9,2,Medium,3194.74,2
+Kolar Road,Cafe,47643,39716,13,4162,3,2,7,Low,2571.71,1
+Ayodhya Bypass,Cafe,60408,49859,17,4145,6,9,6,Medium,2943.06,2
+Shahpura,Cafe,53950,31586,15,1902,4,6,5,Medium,1308.66,0
+Bairagarh,Grocery,66849,49760,5,2813,5,8,4,High,2515.12,2
+MP Nagar,Clothing,38044,28478,13,4606,5,10,4,Medium,2653.49,0
+Arera Colony,Pharmacy,25997,11318,7,2953,7,4,6,Medium,1609.83,1
+Shahpura,Grocery,33911,33694,6,2757,5,2,4,Medium,2070.99,1
+MP Nagar,Clothing,65533,25180,7,4622,3,2,5,Low,2721.43,1
+Shahpura,Grocery,24571,17180,12,3446,10,9,6,Medium,2193.34,0
+Ayodhya Bypass,Pharmacy,67941,38002,5,1571,5,1,5,Low,1985.58,1
+MP Nagar,Clothing,68005,20372,17,3049,7,7,7,Low,1865.26,2
+Bawadiya Kalan,Grocery,68712,34796,1,1041,5,3,9,Low,1789.13,2
+Hoshangabad Road,Pharmacy,53541,29427,7,2007,5,3,10,Low,1799.9,2
+Bawadiya Kalan,Cafe,33387,38290,10,4937,9,2,7,High,3285.31,1
+Gulmohar Colony,Pharmacy,58908,33099,0,1343,3,10,7,Low,1741.75,2
+Hoshangabad Road,Cafe,23057,14821,5,4523,6,6,4,Medium,2384.07,1
+Bawadiya Kalan,Grocery,74028,10832,15,1566,1,10,1,Low,714.41,0
+Hoshangabad Road,Clothing,65731,17820,19,4057,10,2,8,Medium,2442.94,1
+Hoshangabad Road,Clothing,34858,21211,11,2066,5,10,4,Low,1541.82,0
+Kolar Road,Grocery,58689,44890,10,475,8,4,1,High,1685.1,0
+Arera Colony,Clothing,54638,10842,9,362,5,10,5,Low,695.37,0
+Arera Colony,Clothing,56486,6316,2,4462,9,9,8,Low,2482.71,2
+Kolar Road,Cafe,30567,22508,12,3488,6,9,4,High,2226.96,0
+Shahpura,Grocery,39739,27005,2,3495,8,6,8,Low,2486.59,2
+New Market,Pharmacy,67804,20206,14,2044,10,4,8,Medium,1825.19,1
+Shahpura,Cafe,13754,23971,15,1993,8,7,3,Low,1546.34,0
+MP Nagar,Grocery,37044,30599,12,3734,3,1,9,Low,2405.9,1
+MP Nagar,Cafe,77260,27056,16,1752,7,4,3,Low,1604.26,1
+Hoshangabad Road,Pharmacy,76912,6378,2,4241,7,5,1,High,2009.6,1
+Bawadiya Kalan,Pharmacy,18706,6519,19,3992,10,8,2,Low,1943.51,0
+Bawadiya Kalan,Grocery,18894,27161,10,699,6,2,6,Low,1495.86,1
+Arera Colony,Pharmacy,28037,45703,20,4915,7,5,10,Medium,3024.15,2
+Bairagarh,Cafe,61612,43861,18,2012,2,6,2,Low,1731.06,0
+Shahpura,Pharmacy,39725,10355,10,1392,9,5,6,Low,1241.7,1
+Gulmohar Colony,Cafe,15926,14083,15,700,10,9,1,Low,1122.77,0
+Ayodhya Bypass,Cafe,19496,43342,20,480,10,10,1,Low,1629.08,0
+Bawadiya Kalan,Pharmacy,66447,25456,2,4313,1,1,5,Medium,2375.92,1
+Ayodhya Bypass,Grocery,39806,18324,5,3737,1,3,10,Medium,2192.04,1
+Hoshangabad Road,Clothing,51321,7257,13,2263,3,2,9,High,1245.48,1
+Ayodhya Bypass,Pharmacy,75095,32364,17,4455,3,3,8,Low,2653.58,1
+Gulmohar Colony,Cafe,32656,29972,16,1198,1,10,3,High,1095.52,0
+Kolar Road,Cafe,65147,31654,3,465,7,9,3,High,1258.77,0
+Gulmohar Colony,Pharmacy,59666,20233,14,2670,4,9,1,Low,1709.74,0
+Ayodhya Bypass,Grocery,48787,20887,10,3519,10,10,3,Medium,2280.73,0
+Gulmohar Colony,Grocery,72946,34320,2,2576,2,2,1,Medium,1934.07,1
+New Market,Cafe,31727,25808,2,890,10,3,8,Low,1568.68,2
+Hoshangabad Road,Cafe,78056,35154,15,3669,5,4,1,Low,2344.04,1
+Shahpura,Grocery,13081,39773,4,846,6,9,5,Medium,1878.25,0
+Kolar Road,Clothing,44196,32747,20,412,9,3,9,Low,1455.13,1
+Bawadiya Kalan,Pharmacy,46735,15860,9,4733,4,7,7,Low,2247.47,2
+MP Nagar,Cafe,35498,47838,18,1020,2,3,4,Low,1611.35,0
+Shahpura,Cafe,41656,47156,3,1177,5,7,9,Medium,1977.26,2
+MP Nagar,Grocery,77695,23156,18,2929,3,7,9,High,1688.27,2
+Hoshangabad Road,Pharmacy,47900,25360,10,2481,2,9,2,High,1488.87,0
+Kolar Road,Grocery,57701,23135,1,3718,1,2,10,Low,2170.42,2
+Arera Colony,Pharmacy,29033,30351,9,897,10,6,10,Medium,1684.0,2
+Bawadiya Kalan,Pharmacy,20805,35499,10,4543,2,9,6,Low,2790.17,2
+New Market,Pharmacy,45851,28554,19,372,6,2,4,Medium,1263.01,1
+Arera Colony,Cafe,36832,24604,15,3110,8,2,8,Low,2255.41,1
+Hoshangabad Road,Clothing,73437,21923,18,4915,3,5,7,Medium,2486.74,1
+Shahpura,Grocery,23944,13547,10,1873,9,10,7,Medium,1540.02,0
+New Market,Clothing,29873,49283,13,2647,9,10,10,High,2688.89,2
+Gulmohar Colony,Grocery,50372,38002,1,3264,2,10,9,Low,2612.74,2
+Ayodhya Bypass,Pharmacy,25379,19562,4,4880,8,8,5,High,2700.76,2
+New Market,Cafe,46751,12480,4,4817,10,9,6,High,2591.69,2
+Hoshangabad Road,Clothing,15110,31672,18,1046,5,2,1,Medium,1359.38,0
+Bairagarh,Cafe,64341,9213,20,2765,4,5,6,Low,1370.72,1
+Ayodhya Bypass,Grocery,22087,15293,11,606,10,7,2,Medium,1142.15,0
+MP Nagar,Cafe,33762,39441,17,343,5,6,6,Medium,1325.1,0
+Bawadiya Kalan,Cafe,19596,7100,3,605,4,6,9,Medium,931.01,0
+MP Nagar,Clothing,28313,49617,16,4617,8,7,8,Low,3434.35,2
+New Market,Pharmacy,76549,33172,9,3258,4,3,9,Low,2482.08,2
+MP Nagar,Cafe,33705,25132,19,3690,10,3,10,Medium,2458.86,1
+Hoshangabad Road,Pharmacy,77364,23199,5,1972,6,10,8,Low,1751.87,2
+Gulmohar Colony,Grocery,12023,41609,13,3893,2,9,3,Medium,2657.55,0
+Shahpura,Cafe,69796,47965,10,1292,5,8,8,Low,2016.68,2
+Bawadiya Kalan,Clothing,74429,13016,10,4525,6,5,6,Low,2370.25,1
+MP Nagar,Grocery,71627,44779,17,4845,5,6,6,High,3304.28,2
+MP Nagar,Grocery,43848,42261,17,1564,2,10,6,Medium,1529.02,0
+New Market,Clothing,47804,36881,10,490,7,1,3,High,1405.57,1
+Shahpura,Cafe,25379,22058,20,4576,4,10,10,High,2453.24,2
+Arera Colony,Cafe,69664,29472,11,3477,8,1,1,Medium,2093.86,1
+MP Nagar,Grocery,37766,46346,4,4937,7,4,4,Medium,3271.0,2
+Hoshangabad Road,Cafe,78099,39926,8,772,7,2,10,Low,1741.21,2
+Bairagarh,Pharmacy,46060,39832,8,2660,9,7,6,Medium,2562.57,2
+Bawadiya Kalan,Clothing,79122,41021,9,1311,1,2,10,High,1571.11,2
+MP Nagar,Pharmacy,26087,29087,18,1029,10,10,2,High,1656.26,0
+Hoshangabad Road,Cafe,58868,17828,0,1639,6,2,7,Medium,1598.34,1
+Hoshangabad Road,Grocery,33225,36128,6,1012,6,5,7,High,1602.02,2
+Bawadiya Kalan,Clothing,16643,6401,3,743,6,4,4,Low,912.72,0
+Arera Colony,Cafe,46727,24643,0,4622,6,8,4,High,2713.47,2
+Hoshangabad Road,Cafe,21005,20193,14,601,10,4,1,Low,1101.3,0
+Bairagarh,Grocery,75697,31853,7,829,7,6,2,High,1354.33,0
+Hoshangabad Road,Grocery,26029,49864,11,1383,10,5,9,Low,2445.42,2
+Hoshangabad Road,Pharmacy,24226,25307,17,2218,6,2,10,Low,1851.27,1
+Hoshangabad Road,Clothing,73646,41982,14,4652,1,8,8,Medium,2758.83,2
+Gulmohar Colony,Clothing,70603,24611,16,4486,3,2,8,Low,2281.05,1
+Gulmohar Colony,Grocery,38731,48791,13,3936,2,9,9,Medium,2752.32,2
+Arera Colony,Pharmacy,78926,16950,13,1019,6,9,7,High,1110.07,0
+MP Nagar,Clothing,15997,15704,17,4150,8,3,9,High,2461.35,1
+Hoshangabad Road,Grocery,65506,48111,19,2439,3,4,10,High,2402.5,2
+Shahpura,Cafe,59815,16867,17,855,10,8,2,Low,1065.92,0
+MP Nagar,Clothing,52092,7745,15,1969,8,9,6,High,1271.66,0
+Arera Colony,Pharmacy,72539,8866,0,4572,8,3,3,High,2410.99,1
+Kolar Road,Pharmacy,76077,37245,10,607,5,5,6,Medium,1500.31,2
+MP Nagar,Pharmacy,31817,49724,14,1536,8,8,3,Medium,2156.04,0
+MP Nagar,Cafe,47861,10818,11,2675,6,3,8,High,1566.36,1
+Ayodhya Bypass,Clothing,23428,35116,7,3526,5,7,4,High,2399.66,0
+New Market,Clothing,53934,20493,19,658,9,8,10,Low,1303.05,2
+Ayodhya Bypass,Cafe,20258,33038,5,3202,7,10,6,Low,2417.53,2
+Bairagarh,Clothing,67775,25447,2,4616,8,3,9,High,2975.18,2
+Gulmohar Colony,Cafe,15469,35431,12,3722,1,2,2,Medium,2255.01,1
+Gulmohar Colony,Cafe,38854,22908,12,4499,2,10,2,High,2095.45,0
+New Market,Cafe,16256,34336,1,4157,8,7,7,Low,2863.33,2
+Bawadiya Kalan,Pharmacy,43937,45992,4,3815,9,9,2,Medium,2886.31,2
+Bawadiya Kalan,Clothing,11651,9025,16,1401,4,1,2,Medium,954.83,1
+Arera Colony,Cafe,60288,25093,5,2255,10,3,4,Low,2211.92,1
+New Market,Clothing,35051,11155,1,792,10,5,9,High,1269.71,2
+MP Nagar,Pharmacy,37386,38487,3,4450,9,3,8,High,3162.97,2
+Bawadiya Kalan,Cafe,26184,25963,10,1578,4,1,2,High,1445.61,1
+Hoshangabad Road,Grocery,43787,25936,7,356,10,7,8,Low,1372.28,2
+Shahpura,Pharmacy,31621,9426,11,2530,10,7,4,Medium,1717.64,0
+MP Nagar,Grocery,69792,28303,7,541,10,10,2,Low,1384.84,0
+Bairagarh,Clothing,55253,32606,10,1981,9,8,10,High,1984.13,2
+Hoshangabad Road,Clothing,44051,33151,19,2746,7,5,7,Low,2029.83,1
+Hoshangabad Road,Pharmacy,59811,18767,7,3920,2,10,6,Medium,2017.39,2
+New Market,Clothing,40447,16308,7,4777,9,5,10,Low,2881.94,2
+Arera Colony,Grocery,40254,49245,16,1835,4,5,5,High,1974.12,0
+Bairagarh,Cafe,67418,29770,19,3835,8,1,1,Medium,2273.09,1
+Bawadiya Kalan,Cafe,24472,33572,19,2745,7,10,2,Low,2041.16,0
+New Market,Cafe,13471,46448,15,118,7,5,8,Low,1475.62,2
+Bawadiya Kalan,Pharmacy,18329,7204,13,1224,8,6,1,Medium,938.36,0
+New Market,Clothing,44865,32233,10,4085,1,1,3,Medium,2121.2,1
+New Market,Grocery,56850,26729,6,2754,5,7,2,High,1938.84,0
+New Market,Clothing,64220,36131,15,2180,2,1,5,Medium,1685.4,1
+Arera Colony,Clothing,16397,38870,12,1647,2,2,4,High,1554.0,1
+New Market,Clothing,45525,43011,14,961,1,2,7,Low,1558.9,1
+Kolar Road,Cafe,63072,44382,15,254,5,5,5,High,1527.85,0
+Shahpura,Grocery,33284,46475,20,3594,2,10,8,Low,2597.4,2
+Bawadiya Kalan,Grocery,71330,26607,8,1004,4,7,4,Medium,1277.34,0
+MP Nagar,Clothing,35122,29968,2,1369,3,1,6,Low,1560.53,1
+Ayodhya Bypass,Cafe,72812,38398,18,504,3,10,4,Medium,1264.58,0
+Bairagarh,Cafe,17999,16908,19,943,2,1,2,Low,767.55,1
+Gulmohar Colony,Grocery,32436,31423,4,1882,6,1,1,Low,1694.85,1
+Arera Colony,Cafe,52963,48615,9,1664,2,6,1,Low,1903.23,0
+MP Nagar,Cafe,12096,14171,16,1284,8,2,8,Low,1203.86,1
+Hoshangabad Road,Cafe,35279,17721,14,846,8,1,4,High,1228.26,1
+Kolar Road,Pharmacy,36201,21616,7,1825,5,6,5,Low,1587.39,0
+Gulmohar Colony,Clothing,29715,47512,14,3288,10,2,8,High,3156.69,2
+Ayodhya Bypass,Grocery,39309,43458,20,370,7,6,7,Medium,1627.33,0
+MP Nagar,Grocery,25078,12659,13,4965,4,10,8,Medium,2455.13,2
+Gulmohar Colony,Pharmacy,66614,48369,19,4056,1,8,8,High,2572.77,2
+MP Nagar,Clothing,15105,16704,6,271,2,2,6,Medium,826.62,1
+Kolar Road,Grocery,12839,37793,20,373,10,9,10,Medium,1793.02,2
+Ayodhya Bypass,Cafe,78920,36226,11,2406,10,8,2,Low,2348.22,0
+Hoshangabad Road,Grocery,53619,28852,16,1258,4,10,6,Low,1393.65,0
+New Market,Cafe,52821,37082,16,1806,1,1,1,Low,1444.96,1
+Bawadiya Kalan,Pharmacy,23493,27794,9,1871,8,7,1,High,1580.75,0
+Hoshangabad Road,Cafe,27069,46420,18,521,9,10,3,High,1603.05,0
+New Market,Grocery,17531,18379,13,1309,4,6,3,Medium,1075.06,0
+Arera Colony,Grocery,47051,12006,10,4775,10,6,5,Low,2346.26,1
+Shahpura,Grocery,17736,13682,1,990,3,6,1,High,781.73,0
+Bairagarh,Pharmacy,17710,38840,17,4917,2,6,10,High,2930.9,2
+Bairagarh,Pharmacy,77155,37430,6,3367,5,10,6,Low,2490.92,2
+Bawadiya Kalan,Clothing,23975,28091,11,1573,3,7,7,High,1405.89,0
+Ayodhya Bypass,Grocery,72424,37983,1,3343,10,3,10,Low,2786.24,2
+Kolar Road,Cafe,55603,28989,19,4578,7,6,3,Medium,2468.57,1
+Ayodhya Bypass,Pharmacy,33252,14915,17,2281,6,3,4,Medium,1399.14,1
+Kolar Road,Grocery,11431,47552,5,1549,1,7,10,Medium,2243.93,2
+Ayodhya Bypass,Grocery,47481,23990,9,3196,8,7,10,Low,2434.38,2
+Shahpura,Pharmacy,19557,29734,19,3356,2,8,10,High,2149.37,2
+Arera Colony,Clothing,10162,19824,14,3256,5,2,10,Medium,2100.59,1
+Arera Colony,Pharmacy,44742,41081,4,1690,9,9,10,Medium,2430.11,2
+New Market,Pharmacy,29675,16033,19,4339,8,5,3,Medium,2287.04,1
+Gulmohar Colony,Cafe,27015,47736,2,4081,2,9,1,High,2700.93,0
+Arera Colony,Cafe,60057,21241,4,1535,9,10,8,High,1633.72,2
+Arera Colony,Clothing,42591,10939,7,323,5,5,10,Low,854.0,2
+Hoshangabad Road,Grocery,19833,40063,7,319,10,7,10,Medium,1943.65,2
+Hoshangabad Road,Pharmacy,17896,39464,7,4374,6,9,2,High,2780.46,0
+New Market,Clothing,42972,16185,11,1754,3,4,1,Low,978.06,0
+Gulmohar Colony,Cafe,59733,32045,7,4628,3,2,8,Medium,2568.58,1
+Bawadiya Kalan,Pharmacy,51800,49769,10,364,10,9,7,High,1969.52,2
+Hoshangabad Road,Grocery,15347,24167,13,1053,8,2,7,High,1350.16,1
+Bawadiya Kalan,Cafe,69063,41412,7,4624,10,3,4,Low,3160.05,1
+MP Nagar,Cafe,12643,26625,9,3833,10,10,9,Medium,2832.8,2
+Hoshangabad Road,Cafe,50785,44188,6,2874,2,2,6,Medium,2325.22,1
+Shahpura,Clothing,28681,32076,16,3224,2,3,2,High,1855.25,1
+Gulmohar Colony,Grocery,60026,49605,3,579,5,6,1,Medium,1723.65,0
+New Market,Pharmacy,25892,24029,12,3614,6,3,1,Low,2267.72,1
+MP Nagar,Clothing,57299,27973,3,1453,2,10,9,High,1535.81,2
+Gulmohar Colony,Clothing,27073,44121,4,3422,5,8,4,High,2395.17,2
+Shahpura,Clothing,40682,36433,3,3978,7,6,5,Low,2838.13,2
+Gulmohar Colony,Cafe,24289,48309,17,989,10,7,3,High,2008.52,0
+Shahpura,Grocery,17927,6932,5,3954,10,1,4,Medium,2136.21,1
+Shahpura,Clothing,58330,49254,1,1024,8,3,8,Medium,2197.83,2
+Bawadiya Kalan,Pharmacy,76707,6757,10,2270,7,3,4,High,1252.7,1
+Ayodhya Bypass,Grocery,75428,35722,13,2002,8,2,9,Low,2285.25,2
+MP Nagar,Pharmacy,60601,42853,4,4973,9,7,9,Low,3308.04,2
+Gulmohar Colony,Grocery,12539,43405,5,2495,5,9,6,Medium,2307.48,2
+Kolar Road,Pharmacy,32669,6116,9,128,5,4,2,Low,384.47,0
+MP Nagar,Cafe,30644,48527,7,134,10,5,10,High,2075.42,2
+Ayodhya Bypass,Clothing,28745,16691,13,3689,4,3,7,High,2111.99,1
+MP Nagar,Pharmacy,38228,5492,2,2770,9,9,9,Medium,1784.13,2
+Arera Colony,Grocery,44521,32882,11,3465,5,4,6,Medium,2374.1,1
+Kolar Road,Clothing,36928,13811,15,688,2,5,3,Medium,653.87,0
+Ayodhya Bypass,Clothing,28322,32808,16,3318,10,1,7,Low,2636.83,1
+Bawadiya Kalan,Grocery,67714,29272,0,3238,8,2,5,High,2518.37,1
+Gulmohar Colony,Pharmacy,72292,33399,9,1003,7,9,1,High,1422.18,0
+Bairagarh,Cafe,39055,11474,9,4186,8,2,3,High,2195.74,1
+Ayodhya Bypass,Cafe,52891,31956,20,2269,3,5,5,Medium,1731.38,1
+New Market,Pharmacy,16588,47506,1,439,4,8,7,High,1729.71,2
+Gulmohar Colony,Clothing,16304,18979,8,4370,5,3,3,Low,2301.35,1
+Ayodhya Bypass,Clothing,17345,49523,12,1814,6,6,6,Low,2234.99,2
+Arera Colony,Clothing,39300,47565,15,4792,1,4,5,High,2932.11,1
+Bairagarh,Clothing,34259,33328,17,4646,4,7,1,Medium,2383.7,0
+Arera Colony,Pharmacy,25352,17867,18,656,10,10,10,High,1204.48,0
+Bairagarh,Clothing,43365,30851,11,3187,5,3,6,Low,2288.5,1
+New Market,Grocery,29446,36279,7,3366,7,6,8,Low,2484.02,2
+Gulmohar Colony,Clothing,12336,35527,16,3667,5,10,1,Low,2338.64,0
+Bawadiya Kalan,Cafe,72032,12866,14,2156,1,9,2,High,1038.11,0
+Arera Colony,Clothing,17521,20449,9,3999,7,10,4,Low,2393.94,0
+Arera Colony,Pharmacy,33481,15685,14,1116,8,1,2,Medium,1167.61,1
+Shahpura,Cafe,28474,28544,14,2162,7,3,9,High,1904.97,1
+Bairagarh,Pharmacy,56760,10451,6,938,4,2,10,High,1007.25,1
+Hoshangabad Road,Pharmacy,65718,26642,12,1737,8,8,8,Low,1595.45,2
+Gulmohar Colony,Cafe,54629,46316,16,4421,5,7,8,Low,3022.21,2
+Bairagarh,Pharmacy,55232,44954,8,3596,10,2,4,Medium,2795.44,1
+Shahpura,Pharmacy,77169,43870,7,1913,9,6,5,High,2274.43,2
+MP Nagar,Clothing,60669,36030,19,3579,10,3,4,Low,2519.61,1
+Bairagarh,Grocery,79184,35873,20,1551,5,8,9,Medium,1672.01,2
+Bawadiya Kalan,Pharmacy,57945,5619,17,2413,1,10,2,Low,1043.8,0
+Gulmohar Colony,Pharmacy,23140,38650,12,1614,9,3,8,High,1973.53,2
+Shahpura,Pharmacy,24357,30372,15,1331,5,10,2,Low,1288.84,0
+MP Nagar,Clothing,78673,8642,8,1745,6,9,1,High,1006.98,0
+Kolar Road,Grocery,75633,33001,11,3099,4,1,10,Low,2251.56,1
+Shahpura,Cafe,22924,39064,11,3540,6,5,3,High,2407.92,0
+Kolar Road,Clothing,79286,34290,5,4156,8,3,9,Medium,2895.94,2
+Gulmohar Colony,Clothing,67326,19122,18,405,3,6,3,High,710.02,0
+Arera Colony,Grocery,40651,29820,6,3636,5,10,9,Medium,2545.09,2
+Shahpura,Grocery,58777,7895,2,1823,2,2,7,High,1187.56,1
+New Market,Clothing,26994,10366,15,1789,2,9,10,Medium,944.48,0
+Kolar Road,Cafe,77263,13711,17,1617,7,6,1,Low,1156.74,0
+Bawadiya Kalan,Clothing,69634,24596,15,4017,10,7,10,High,2715.04,2
+New Market,Grocery,20800,23793,6,519,10,5,5,Low,1300.24,0
+Ayodhya Bypass,Cafe,47823,13199,3,3036,10,9,9,Medium,2299.34,2
+Ayodhya Bypass,Grocery,73878,15717,7,3962,6,1,3,High,2208.39,1
+MP Nagar,Cafe,28708,41191,12,4329,4,5,9,High,2876.62,2
+Arera Colony,Pharmacy,22819,15211,12,1550,5,10,5,Low,1143.18,0
+Gulmohar Colony,Grocery,73870,28360,16,3196,1,6,9,High,2152.74,2
+Shahpura,Grocery,19283,26542,16,3361,7,7,10,High,2328.0,2
+Hoshangabad Road,Clothing,40573,36312,4,1264,8,4,6,Low,1898.7,2
+Bawadiya Kalan,Grocery,40933,41435,5,1969,9,1,9,High,2402.27,2
+Kolar Road,Grocery,15774,33247,18,1919,8,8,7,Low,2163.14,0
+Gulmohar Colony,Pharmacy,20983,27357,12,2805,5,10,7,Low,1984.02,0
+New Market,Grocery,28133,46045,13,3615,3,4,8,Low,2674.01,2
+Ayodhya Bypass,Pharmacy,24939,32691,3,1442,10,3,7,Low,1918.87,2
+Bawadiya Kalan,Pharmacy,10781,17424,6,2326,9,7,9,Low,1870.75,2
+Hoshangabad Road,Pharmacy,66700,23852,7,1179,6,2,9,Medium,1405.81,1
+Shahpura,Pharmacy,37624,27601,12,4306,5,8,6,Medium,2426.05,2
+MP Nagar,Cafe,16823,23020,5,4663,3,6,7,Low,2336.55,2
+Hoshangabad Road,Clothing,28489,13155,5,2879,6,7,2,Medium,1734.68,0
+Bawadiya Kalan,Cafe,49961,8583,20,2628,3,5,9,Medium,1370.05,1
+Hoshangabad Road,Grocery,39118,20515,2,913,10,9,1,High,1366.34,0
+Bawadiya Kalan,Cafe,32263,41777,2,2131,6,5,1,Low,2095.03,0
+Bawadiya Kalan,Cafe,23565,24710,12,422,4,5,3,Medium,942.63,0
+Bairagarh,Grocery,30354,48178,1,3069,2,3,6,High,2710.51,2
+Kolar Road,Grocery,52951,29532,15,1003,8,1,5,High,1412.47,1
+Ayodhya Bypass,Grocery,33648,23601,5,1641,4,2,2,Low,1402.21,1
+Bairagarh,Cafe,60729,9967,7,3603,9,8,9,Low,2187.52,2
+Shahpura,Cafe,51971,23753,7,2753,7,1,10,High,2251.57,1
+Bairagarh,Grocery,28658,25022,5,2576,2,7,4,Low,1741.02,0
+Arera Colony,Clothing,31253,48463,13,3440,4,5,4,Low,2654.47,0
+Arera Colony,Clothing,74166,14135,2,4343,5,3,5,High,2127.6,1
+Ayodhya Bypass,Pharmacy,58563,10722,9,1241,3,7,8,High,921.51,0
+Hoshangabad Road,Grocery,36390,32413,2,949,9,9,10,Low,1755.79,2
+Kolar Road,Pharmacy,61578,32236,11,466,5,2,4,Medium,981.41,1
+Ayodhya Bypass,Clothing,42658,20514,16,2997,2,8,5,Low,1691.52,0
+Bawadiya Kalan,Pharmacy,16852,48896,4,1189,3,9,4,Medium,1842.39,0
+New Market,Grocery,12551,42212,19,4141,9,3,6,High,2984.56,1
+Kolar Road,Grocery,71001,45386,8,2138,7,2,3,Medium,2246.5,1
+Kolar Road,Grocery,59159,25331,20,2960,2,7,8,High,1833.32,2
+Bawadiya Kalan,Cafe,61707,23060,19,4370,9,5,6,Low,2679.81,1
+Bawadiya Kalan,Pharmacy,43243,6196,6,1954,4,5,10,Low,1279.53,2
+MP Nagar,Clothing,31800,17297,3,4783,9,10,5,High,2743.37,2
+Ayodhya Bypass,Clothing,67828,7787,12,594,2,5,2,High,412.35,0
+Bawadiya Kalan,Clothing,17239,28816,12,3282,10,4,10,High,2631.58,2
+Arera Colony,Cafe,16710,45695,9,1884,4,5,10,Low,2087.81,2
+Shahpura,Cafe,31384,24702,17,3610,5,4,7,Low,1987.29,1
+New Market,Grocery,31038,30242,16,3886,2,6,2,Medium,2326.82,0
+Ayodhya Bypass,Clothing,50846,7176,19,4230,10,4,1,High,2183.53,1
+Gulmohar Colony,Cafe,77821,25127,19,1098,1,2,7,Medium,887.92,1
+Arera Colony,Grocery,47991,46560,12,4569,7,9,5,Low,3139.54,2
+Hoshangabad Road,Clothing,16971,32228,16,1551,10,2,1,Medium,1733.54,1
+Bawadiya Kalan,Pharmacy,39139,25208,3,1851,1,9,4,Medium,1490.35,0
+Gulmohar Colony,Grocery,47711,33482,0,2380,8,10,4,Low,2363.97,2
+Bawadiya Kalan,Cafe,16530,14171,0,4900,3,6,10,Low,2413.13,2
+Kolar Road,Cafe,21116,40219,14,4758,10,9,7,High,3140.01,2
+Arera Colony,Grocery,75794,38396,12,3034,6,9,9,Medium,2471.68,2
+Kolar Road,Grocery,10282,47589,16,3834,7,3,2,Low,2685.27,1
+MP Nagar,Cafe,11898,45546,7,3446,10,1,1,Low,2533.34,1
+Kolar Road,Pharmacy,14135,8696,17,1973,1,1,2,Medium,825.23,1
+MP Nagar,Clothing,16629,25058,12,4634,6,3,7,Low,2724.1,1
+MP Nagar,Pharmacy,75031,25313,13,3903,7,5,10,High,2516.83,2
+Gulmohar Colony,Grocery,43380,24149,7,2079,6,3,6,High,1803.78,1
+Bawadiya Kalan,Pharmacy,27071,46075,7,798,4,9,4,Medium,1729.28,0
+Hoshangabad Road,Cafe,30074,9956,14,1412,1,9,1,High,580.4,0
+Kolar Road,Grocery,77843,15195,12,3062,9,3,1,Low,1818.38,1
+Arera Colony,Clothing,49901,22076,6,3038,4,3,5,Low,1752.68,1
+MP Nagar,Cafe,21205,6105,4,4887,7,5,1,Low,2151.88,1
+Bawadiya Kalan,Cafe,65661,20417,16,2400,7,2,7,Low,1755.47,1
+New Market,Clothing,15906,29729,15,3297,2,6,1,Medium,1877.06,0
+Ayodhya Bypass,Clothing,12591,35099,1,226,1,7,1,High,897.48,0
+Gulmohar Colony,Pharmacy,72987,37598,17,1291,8,9,2,High,1572.9,0
+Hoshangabad Road,Grocery,73370,34961,16,2739,8,6,10,Low,2401.77,2
+Bairagarh,Clothing,64400,17602,6,4489,7,3,3,Medium,2473.94,1
+Gulmohar Colony,Clothing,35150,14256,12,4016,8,5,1,Low,2051.3,1
+New Market,Grocery,41852,25584,17,1466,3,4,9,Low,1377.0,1
+Ayodhya Bypass,Clothing,52870,39681,13,1119,2,5,10,Medium,1746.8,2
+New Market,Clothing,62756,30792,17,4179,7,8,8,Medium,2575.24,2
+Kolar Road,Pharmacy,66481,26904,12,4614,8,8,5,Low,2890.2,2
+MP Nagar,Cafe,11283,48361,10,4639,1,6,2,High,2708.15,0
+Hoshangabad Road,Cafe,43691,39540,20,784,10,1,5,Low,1817.75,1
+Shahpura,Cafe,11125,31536,20,3729,9,8,6,High,2577.47,0
+MP Nagar,Cafe,77065,24164,15,2987,4,8,1,High,1970.56,0
+Shahpura,Clothing,36170,17996,16,1562,4,2,4,Medium,1044.48,1
+Ayodhya Bypass,Grocery,18438,7871,7,4186,3,4,9,Medium,1778.47,1
+Bawadiya Kalan,Grocery,30095,27626,18,2361,6,2,2,Low,1821.94,1
+Bairagarh,Pharmacy,26154,15521,19,4280,1,4,5,High,1748.89,1
+Arera Colony,Pharmacy,18004,48410,14,2941,6,10,1,High,2491.18,0
+MP Nagar,Clothing,19752,6132,8,1867,2,7,4,Low,1064.97,0
+Hoshangabad Road,Grocery,65426,38467,19,4280,9,9,4,Low,2877.65,2
+New Market,Grocery,36819,19534,9,3660,2,8,6,Low,1982.57,0
+Hoshangabad Road,Cafe,34217,28854,11,2212,7,9,10,Medium,2075.64,2
+Ayodhya Bypass,Clothing,42994,47998,20,4858,1,8,9,Low,3103.99,2
+Shahpura,Clothing,25036,44065,19,726,7,2,3,Low,1664.43,1
+New Market,Cafe,59416,12812,0,4259,5,7,9,High,2209.29,2
+Arera Colony,Clothing,19587,9557,19,3514,8,2,6,Low,2041.32,1
+Arera Colony,Clothing,10645,7179,8,1475,4,2,7,High,1030.84,1
+MP Nagar,Pharmacy,40930,48798,14,1281,10,4,10,High,2380.13,2
+Ayodhya Bypass,Grocery,40090,14065,0,590,7,1,2,Medium,1039.22,1
+Bawadiya Kalan,Clothing,62142,13275,11,3829,6,5,10,Low,2277.62,2
+Ayodhya Bypass,Pharmacy,36475,40948,2,3634,5,6,6,Low,2810.81,2
+Shahpura,Grocery,28888,25700,10,3396,4,9,6,High,2124.27,0
+Hoshangabad Road,Cafe,53732,44464,1,2040,7,10,2,Medium,2232.35,0
+Arera Colony,Pharmacy,56305,47351,15,4508,5,8,2,Medium,2962.44,0
+Hoshangabad Road,Pharmacy,56037,32794,8,1982,5,2,2,Low,1853.56,1
+Hoshangabad Road,Grocery,19346,33783,14,3087,1,1,10,High,2023.76,1
+Hoshangabad Road,Cafe,10587,21998,11,3259,2,2,1,Low,1775.01,1
+Arera Colony,Pharmacy,22763,18869,0,4875,5,7,5,Low,2489.34,2
+Gulmohar Colony,Clothing,69165,49525,12,4630,3,4,8,Low,3313.75,2
+Kolar Road,Clothing,79615,33152,13,781,2,10,2,Low,1168.88,0
+Shahpura,Clothing,46116,25954,7,1173,4,5,5,High,1297.8,0
+Gulmohar Colony,Cafe,35556,36555,7,2487,4,7,8,Medium,2197.2,2
+Shahpura,Pharmacy,69042,21654,11,2494,4,3,10,Low,1805.17,1
+New Market,Clothing,28099,40236,0,2793,4,10,5,Low,2317.43,2
+Ayodhya Bypass,Cafe,55096,20042,10,1470,3,2,2,Low,944.63,1
+Ayodhya Bypass,Clothing,23230,30966,7,4844,7,7,3,Low,2737.13,0
+Bairagarh,Grocery,39009,49314,9,4440,9,5,6,Medium,3312.8,2
+Ayodhya Bypass,Pharmacy,43866,19270,18,2256,5,1,5,Medium,1322.51,1
+Arera Colony,Pharmacy,51855,35908,10,2680,4,1,4,Medium,1996.98,1
+Bawadiya Kalan,Cafe,16416,20523,6,4491,2,9,4,Medium,2194.94,0
+MP Nagar,Cafe,65915,24991,10,2259,2,5,5,Low,1487.48,1
+Bairagarh,Pharmacy,28058,15775,16,3348,5,1,2,High,1793.41,1
+MP Nagar,Clothing,50718,17265,0,3831,7,7,9,Medium,2304.46,2
+Shahpura,Clothing,42602,24459,20,3929,10,9,2,Medium,2355.47,0
+MP Nagar,Grocery,68067,21673,20,1727,10,1,10,Low,1710.96,1
+MP Nagar,Clothing,37516,32056,7,3572,9,10,2,Low,2479.72,0
+Bairagarh,Cafe,11089,11614,5,127,7,4,10,Low,1095.44,2
+New Market,Cafe,47346,41020,17,2085,5,3,9,Low,2123.22,2
+Hoshangabad Road,Clothing,20487,12415,5,4253,10,5,3,High,2376.23,1
+Ayodhya Bypass,Cafe,10155,28155,4,1621,10,7,10,High,1954.68,2
+Ayodhya Bypass,Pharmacy,77494,48884,12,396,10,8,7,Medium,2013.31,2
+Arera Colony,Pharmacy,48547,21964,18,2281,6,2,4,High,1645.85,1
+Bairagarh,Clothing,38795,42726,7,3502,3,7,6,Medium,2602.61,2
+Arera Colony,Pharmacy,65296,42044,8,2396,5,1,4,Medium,2058.78,1
+Bawadiya Kalan,Pharmacy,31447,42544,16,2697,8,7,10,High,2489.03,2
+Bawadiya Kalan,Grocery,46598,37252,2,1001,1,8,7,Medium,1665.01,2
+Arera Colony,Grocery,51814,8832,18,1198,1,2,1,Low,471.33,1
+Bairagarh,Pharmacy,73278,30275,10,1777,7,9,3,Medium,1875.82,0
+Arera Colony,Clothing,65077,19901,16,2981,5,1,3,Low,1666.24,1
+Ayodhya Bypass,Grocery,19528,43213,20,4966,5,6,1,High,2913.25,0
+Gulmohar Colony,Cafe,60100,39148,18,1478,1,1,6,High,1527.28,1
+Kolar Road,Cafe,18179,47633,1,1348,9,3,9,Medium,2288.14,2
+MP Nagar,Cafe,58781,27918,7,3835,1,6,8,Low,2177.16,2
+Kolar Road,Clothing,65267,24540,18,4341,5,3,7,Medium,2342.43,1
+Bairagarh,Pharmacy,33952,16580,6,1364,10,8,10,High,1646.71,2
+Kolar Road,Cafe,63798,43402,16,2007,9,5,8,Medium,2406.54,2
+Bawadiya Kalan,Clothing,60939,43578,5,1158,4,2,6,Medium,1833.07,2
+Shahpura,Grocery,39516,29917,18,2849,8,4,9,Low,2231.74,2
+MP Nagar,Pharmacy,66526,27318,5,2148,6,9,3,High,1895.79,0
+Hoshangabad Road,Grocery,20449,15179,1,4348,3,4,10,Medium,2345.41,2
+Bairagarh,Clothing,60290,17251,5,2576,4,10,10,Low,1728.59,2
+MP Nagar,Cafe,32746,24493,4,4116,2,10,9,Medium,2283.15,2
+Kolar Road,Cafe,77990,25466,18,4703,1,8,4,Low,2399.74,1
+Bawadiya Kalan,Clothing,68810,35206,19,3297,8,5,7,Low,2421.16,2
+New Market,Cafe,25223,24624,3,4686,1,10,9,Medium,2487.84,2
+Gulmohar Colony,Pharmacy,12597,31564,16,3653,1,1,2,High,1951.15,1
+Hoshangabad Road,Clothing,75677,27412,10,4540,4,7,2,High,2555.72,1
+Gulmohar Colony,Grocery,12659,32990,3,1861,10,3,9,Low,2158.8,2
+MP Nagar,Clothing,25037,40517,12,320,10,10,3,High,1693.97,0
+Bawadiya Kalan,Pharmacy,56738,18156,19,4918,6,8,9,Low,2532.16,2
+Bawadiya Kalan,Pharmacy,22109,28064,16,4723,9,3,5,High,2673.81,1
+Kolar Road,Clothing,32010,30711,8,2988,1,1,6,Medium,1930.33,1
+Ayodhya Bypass,Clothing,18787,35106,3,1764,7,5,2,High,1871.77,0
+Kolar Road,Cafe,18472,21589,13,4086,10,2,8,Low,2568.31,1
+Ayodhya Bypass,Pharmacy,33383,28736,18,4676,5,4,9,Low,2681.0,1
+Ayodhya Bypass,Clothing,71709,25975,2,3077,8,1,2,High,2134.13,1
+Hoshangabad Road,Clothing,79785,41218,13,1971,7,9,6,Medium,2041.8,2
+Kolar Road,Pharmacy,44518,12214,7,1562,4,6,6,Low,1163.12,0
+New Market,Clothing,63909,35581,0,444,4,8,8,Low,1539.02,2
+Arera Colony,Cafe,28351,25195,9,144,6,4,10,Low,1044.02,2
+Arera Colony,Pharmacy,79624,49582,17,2168,6,9,5,Low,2408.26,2
+Kolar Road,Cafe,63330,32127,15,1614,9,2,9,Low,1568.41,1
+Kolar Road,Cafe,25282,10141,7,2698,5,9,1,Medium,1415.35,0
+Gulmohar Colony,Cafe,31778,33884,0,1101,8,5,9,High,1949.06,2
+Hoshangabad Road,Cafe,34264,29885,11,1133,5,6,10,Medium,1523.34,2
+Kolar Road,Pharmacy,69675,7708,7,2140,2,3,7,Medium,969.12,1
+Gulmohar Colony,Cafe,15075,23375,15,373,6,4,4,Low,975.25,0
+Ayodhya Bypass,Cafe,58454,20088,17,2747,9,6,3,Medium,1850.62,1
+Bawadiya Kalan,Clothing,38365,49602,3,1879,3,7,10,Low,2202.83,2
+Bawadiya Kalan,Pharmacy,58200,15014,5,4576,1,1,6,Medium,2073.94,1
+Ayodhya Bypass,Pharmacy,21002,8273,11,578,1,7,1,Low,475.4,0
+Bairagarh,Grocery,23947,42306,8,615,3,1,3,Low,1444.67,1
+Gulmohar Colony,Pharmacy,62142,35881,14,4386,10,5,2,Medium,2701.26,1
+Gulmohar Colony,Pharmacy,66307,36486,15,1291,5,6,9,Medium,1778.98,2
+Ayodhya Bypass,Grocery,14493,17541,11,2768,3,2,3,High,1444.27,1
+New Market,Pharmacy,60085,13712,13,1511,9,10,2,High,1174.17,0
+Shahpura,Pharmacy,44228,14168,12,3380,8,9,4,High,1956.97,0
